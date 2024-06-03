@@ -1,0 +1,11 @@
+C:\Users\Julia\Desktop\Projekt_1\Projekt_1\bin\Debug\Proba1.exe.config
+C:\Users\Julia\Desktop\Projekt_1\Projekt_1\bin\Debug\Proba1.exe
+C:\Users\Julia\Desktop\Projekt_1\Projekt_1\bin\Debug\Proba1.pdb
+C:\Users\Julia\Desktop\Projekt_1\Projekt_1\obj\Debug\Projekt_1.csproj.AssemblyReference.cache
+C:\Users\Julia\Desktop\Projekt_1\Projekt_1\obj\Debug\projekt1.Form1.resources
+C:\Users\Julia\Desktop\Projekt_1\Projekt_1\obj\Debug\Proba1.Form2.resources
+C:\Users\Julia\Desktop\Projekt_1\Projekt_1\obj\Debug\Proba1.Properties.Resources.resources
+C:\Users\Julia\Desktop\Projekt_1\Projekt_1\obj\Debug\Projekt_1.csproj.GenerateResource.cache
+C:\Users\Julia\Desktop\Projekt_1\Projekt_1\obj\Debug\Projekt_1.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\Projekt_1\Projekt_1\obj\Debug\Proba1.exe
+C:\Users\Julia\Desktop\Projekt_1\Projekt_1\obj\Debug\Proba1.pdb

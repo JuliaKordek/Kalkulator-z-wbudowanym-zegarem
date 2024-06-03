@@ -1,0 +1,11 @@
+C:\Users\Julia\Desktop\zegar\Proba1\obj\Debug\Proba1.csproj.AssemblyReference.cache
+C:\Users\Julia\Desktop\zegar\Proba1\obj\Debug\Proba1.Properties.Resources.resources
+C:\Users\Julia\Desktop\zegar\Proba1\obj\Debug\Proba1.csproj.GenerateResource.cache
+C:\Users\Julia\Desktop\zegar\Proba1\obj\Debug\Proba1.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\zegar\Proba1\bin\Debug\Proba1.exe.config
+C:\Users\Julia\Desktop\zegar\Proba1\bin\Debug\Proba1.exe
+C:\Users\Julia\Desktop\zegar\Proba1\bin\Debug\Proba1.pdb
+C:\Users\Julia\Desktop\zegar\Proba1\obj\Debug\Proba1.exe
+C:\Users\Julia\Desktop\zegar\Proba1\obj\Debug\Proba1.pdb
+C:\Users\Julia\Desktop\zegar\Proba1\obj\Debug\Proba1.Form2.resources
+C:\Users\Julia\Desktop\zegar\Proba1\obj\Debug\projekt1.Form1.resources
