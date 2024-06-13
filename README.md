@@ -9,3 +9,15 @@ Po uruchomieniu programu jako pierwsze ukazuje się okno zawierające zegar cyfr
 Okno kalkulatora składa się z przycisków odpowiadających cyfrom 0-9, przycisków operacji matematycznych, przycisku czyszczenia pola tekstowego, przycisku równości, przycisku wstawienia znaku dziesiętnego. 
 W oknie kalkulatora zamieszczono również pole tekstowe, w którym wyświetlana jest aktualnie wykonywana operacja matematyczna oraz jej wynik.
 Umieszczone zostały również przyciski umożliwiające zmianę koloru tła okna.
+
+
+
+![Zrzut ekranu 2024-06-13 161220](https://github.com/JuliaKordek/Kalkulator-z-wbudowanym-zegarem/assets/150183188/dab26590-2c91-4da3-9df0-819be52887fc)
+
+
+
+![Zrzut ekranu 2024-06-13 161431](https://github.com/JuliaKordek/Kalkulator-z-wbudowanym-zegarem/assets/150183188/39d7dfef-1559-48d2-9121-b0e5b7caed99)
+
+
+
+![Zrzut ekranu 2024-06-13 161558](https://github.com/JuliaKordek/Kalkulator-z-wbudowanym-zegarem/assets/150183188/5cd3a1ec-43c3-455f-929b-f3c963ceabb9)
